@@ -51,3 +51,19 @@ a {
 .contact-menu-i.contact-info {
   color: #404bbf;
 }
+.solutions-section {
+  background: #2e2f42;
+}
+.main-title {
+  color: #fff;
+  text-align: center;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.07; /* 107.143% */
+  letter-spacing: 0.02em;
+}
+.order-btn {
+  border-radius: 4px;
+  background: #4d5ae5;
+}
