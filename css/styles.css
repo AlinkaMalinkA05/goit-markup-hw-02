@@ -70,11 +70,17 @@ a {
   letter-spacing: 0.02em;
 }
 .order-btn {
+  color: #ffffff;
   border-radius: 4px;
   background: #4d5ae5;
   cursor: pointer;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5; /* 150% */
+  letter-spacing: 0.04em;
 }
-.order-btn:hover {
+.order-btn:hover,
+.order-btn:focus {
   background: #404bbf;
 }
 .menu-info-title {
@@ -152,10 +158,10 @@ a {
 }
 .logo-second-word-foot {
   color: #f4f4fd;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
   line-height: 1.16; /* 116.667% */
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
