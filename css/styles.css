@@ -20,7 +20,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -134,6 +134,9 @@ a {
   line-height: 1.11; /* 111.111% */
   letter-spacing: 0.02em;
   text-transform: capitalize;
+}
+.menu-info-app {
+  background-color: #ffffff;
 }
 .menu-info-app-title {
   color: #2e2f42;
