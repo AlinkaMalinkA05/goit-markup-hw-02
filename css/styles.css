@@ -101,7 +101,8 @@ a {
 .text-info {
   background-color: #f4f4fd;
 }
-.menu-info {
+.menu-info-item,
+.menu-info-img {
   background-color: #ffffff;
 }
 .text-title {
